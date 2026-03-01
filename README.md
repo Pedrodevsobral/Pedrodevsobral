@@ -2,8 +2,6 @@
 
 Bem-vindo(a) ao meu GitHub! Sou desenvolvedor **full-stack** moro em **Sobral, Ceará - BR**, apaixonado por **PHP backend**, e-commerce e automações. Construo plataformas de vendas digitais, integrações PIX/InfinitePay e sistemas otimizados para performance.
 
-![Screenshot do perfil](https://avatars.githubusercontent.com/u/32919057?s=400&u=ec711b89472f972fd8b55010ffabb5179f9969b2&v=4?text=Desenvolvedor+Full-Stack+PHP)
-
 ## 🎯 O que estou focando agora
 
 🚀 Projetos principais:
