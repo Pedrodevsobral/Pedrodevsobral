@@ -28,7 +28,7 @@ Checkout otimizado com Sublime Text workflows
 ### 1. **Integração com InfinitePay/PIX**
 
 Integração simples de compra com baixa automatica no pix com InfinitePay/PIX.
-git clone https://github.com/Pedrodevsobral/checkoutPIXinfinityPay.git
+`git clone https://github.com/Pedrodevsobral/checkoutPIXinfinityPay.git`
 
 ### 2. **WhatsApp Order Notifier**
 Automação para enviar confirmações de pedidos via WhatsApp Business API integrada ao seu e-commerce.
@@ -39,7 +39,6 @@ Gerenciador de arquivos para upload/download com preview, otimizado para produto
 
 
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588997909090)
 
 📧 **Email para parcerias**: pedrodevphp@gmail.com
