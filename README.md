@@ -25,12 +25,9 @@ Checkout otimizado com Sublime Text workflows
 
 ## 🔥 Projetos Destaque
 
-### 1. **E-commerce PHP Completo**
-Sistema de vendas digitais com checkout PIX, painel admin e notificações WhatsApp.
-git clone https://github.com/SEU_USUARIO/ecommerce-php
-composer install && cp .env.example .env
-php artisan migrate
-
+### 1. **Integração com InfinitePay/PIX**
+Integração simples de compra com baixa automatica no pix com InfinitePay/PIX.
+git clone https://github.com/Pedrodevsobral/checkoutPIXinfinityPay.git
 
 ### 2. **WhatsApp Order Notifier**
 Automação para enviar confirmações de pedidos via WhatsApp Business API integrada ao seu e-commerce.
