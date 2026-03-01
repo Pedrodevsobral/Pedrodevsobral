@@ -14,7 +14,6 @@ Automação de CSV e file management para Android/Web
 
 Checkout otimizado com Sublime Text workflows
 
-text
 
 ## 💻 Stack Principal (80/20)
 | Backend | Frontend | Ferramentas | Banco/Outros |
@@ -32,7 +31,6 @@ git clone https://github.com/SEU_USUARIO/ecommerce-php
 composer install && cp .env.example .env
 php artisan migrate
 
-text
 
 ### 2. **WhatsApp Order Notifier**
 Automação para enviar confirmações de pedidos via WhatsApp Business API integrada ao seu e-commerce.
